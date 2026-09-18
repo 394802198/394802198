@@ -197,7 +197,6 @@ This account contains a mixture of:
 
 * historical professional code
 * personal software projects
-* university work
 * backend systems
 * programming experiments
 * networking experiments
